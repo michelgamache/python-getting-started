@@ -52,7 +52,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'gettingstarted.urls'
+#ROOT_URLCONF = 'gettingstarted.urls'
+ROOT_URLCONF = 'http://www.barreau.qc.ca'
+
 
 TEMPLATES = [
     {
